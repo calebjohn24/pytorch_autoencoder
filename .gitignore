@@ -7,7 +7,7 @@ private.json
 db.json
 # C extensions
 *.so
-
+/data
 # Distribution / packaging
 .Python
 build/
