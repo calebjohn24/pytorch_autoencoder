@@ -2,4 +2,4 @@
 
 Basic autoencoder built in pytorch
 
-Tested with the Cifar-10 dataser
+Tested with the Cifar-10 dataset
